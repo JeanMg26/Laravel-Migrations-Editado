@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>mig_charset</tabTrigger>
+	<scope>source.php</scope>
+	<description>Charset</description>
+	<content><![CDATA[
+\$table->charset = '${1:utf8mb4}';
+]]></content>
+</snippet>
