@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>mig_charset</tabTrigger>
+	<tabTrigger>m_charset</tabTrigger>
 	<scope>source.php</scope>
 	<description>Charset</description>
 	<content><![CDATA[
