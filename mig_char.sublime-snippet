@@ -6,3 +6,4 @@
 \$table->char('${1:field_name}', ${2:field_length})${3:->unique()}${4:->nullable()}${5:->default(${6:field_default})}${7:->comment('${8:field_comment}')}${9:->after('${10:field_name}')};
 ]]></content>
 </snippet>
+
