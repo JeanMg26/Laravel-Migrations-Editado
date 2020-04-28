@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>mig_index</tabTrigger>
+	<tabTrigger>m_index</tabTrigger>
 	<scope>source.php</scope>
 	<description>Index</description>
 	<content><![CDATA[

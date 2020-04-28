@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>mig_unique</tabTrigger>
+	<tabTrigger>m_unique</tabTrigger>
 	<scope>source.php</scope>
 	<description>Unique Index</description>
 	<content><![CDATA[

@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>mig_fix_enum</tabTrigger>
+	<tabTrigger>m_fix_enum</tabTrigger>
 	<scope>source.php</scope>
 	<description>Fix Enum</description>
 	<doc>Add this code on migration file to change tables that contains any enum field type</doc>

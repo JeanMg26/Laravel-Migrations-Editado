@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>mig_foreign</tabTrigger>
+	<tabTrigger>m_foreign</tabTrigger>
 	<scope>source.php</scope>
 	<description>Foreign</description>
 	<content><![CDATA[
